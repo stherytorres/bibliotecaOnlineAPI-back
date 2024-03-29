@@ -1,6 +1,6 @@
 const express = require('express');
-const livroModel = require('./src/module/livro/livroModel');
-const { connectToMongo } = require("./src/config/mongo");
+const livroModel = require('./module/livro/livroModel');
+const { connectToMongo } = require("./config/mongo");
 const cors = require("cors");
 
 const app = express();
