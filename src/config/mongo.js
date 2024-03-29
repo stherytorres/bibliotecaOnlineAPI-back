@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 require("dotenv").config();
 
-const dbUrl = process.env.DB_KEY;
+const dbUrl = `mongodb+srv://${process.env.DB_USER}:${process.env.DB_PASSWORD}@database-estudos.aw7pvrw.mongodb.net/${process.env.NODE_ENV}`;
 
 const connectToMongo = () => {
     mongoose.connect(dbUrl);

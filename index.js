@@ -78,6 +78,6 @@ app.delete("/livros/:id", async (req, res) => {
 });
 
 
-app.listen(9090, () => {
-    console.log('Servidor funcionando na porta 9090');
+app.listen(8080, () => {
+    console.log('Servidor funcionando na porta 8080');
 });
