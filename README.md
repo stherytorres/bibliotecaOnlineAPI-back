@@ -46,5 +46,5 @@ Link da API: [API Biblioteca Online](https://biblioteca-online-api-back.vercel.a
 ## Contato:<br>
 Se você tiver alguma dúvida ou sugestão sobre o Projeto, sinta-se à vontade para entrar em contato:<br>
 
-- Email: sthery.styll@gmail.com<br>
-- LinkedIn: [Perfil no LinkedIn](https://www.linkedin.com/in/sthery-alves-5214ab99/)
+- Email: stor68@proton.me<br>
+- LinkedIn: [Perfil no LinkedIn](https://www.linkedin.com/in/sthery-torres/)
