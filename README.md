@@ -28,7 +28,7 @@ Dependências: Dotenv, Cors e Nodemon <br>
 * Crie uma pasta no seu computador: 'minha-pasta' <br>
 * Abra 'minha-pasta' no VS Code <br>
 * Abra o terminal no VS Code <br>
-* Clone o repositório: $ git clone https://github.com/stherystyll/bibliotecaOnlineAPI-back.git <br>
+* Clone o repositório: $ git clone https://github.com/stherytorres/bibliotecaOnlineAPI-back.git <br>
 * Execute o comando 'npm install' ou 'npm i'. Isso instalará todas as dependências do projeto listadas no arquivo package.json.<br>
 
 Para rodar esse projeto, você vai precisar adicionar as seguintes variáveis de ambiente no seu .env<br>
